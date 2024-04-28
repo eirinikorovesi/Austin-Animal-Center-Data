@@ -1,40 +1,6 @@
-# Jobpostings
+#Austin Animal Center Data
 
-### Project Overview
-write write write
+Database Design
 
-### Data Sources
-
-file here
-
-### Tools
-- Excel
-- SQL
-- Tableau
-
-### Data cleaning preparation
-write write
-
-### Exploratory Data Analysis
-
-- question 1
-- question 2
-
-### Data Analysis
-
-```sql
-SELECT * FROM table
-WHERE cond = 2;
-```
-
-### Results / Findings
-write write
-
-### Recommendations
-write write
-
-### Limitations
-write write
-
-### References
-write write
+Table: animal_intakes
+The animal_intakes table is designed to store detailed records of all animals brought into the shelter. Below is an outline of the table structure and the rationale behind the design choices.
