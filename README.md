@@ -1,6 +1,7 @@
 # Austin Animal Center Data
 
 _Note: This is my sample data analytics project; feedback would be appreciated._
+_The Dashboard sample is at the end._
 
 Undoubtedly, Austin is doing its best to provide a temporary home for the animals, with only 8% of all intakes from 2013 to 2024 returning back to the shelter. It has taken into the shelter 145.147 animals (75663 dogs, 60226 cats, 812 birds, 27 livestock such as pigs, goats, etc, and 8419 other types of animals). 
 
@@ -408,3 +409,5 @@ FROM animal_intakes;
 
 Comparing these 2 results shows that the average age for all animals entering the shelter (including those who re-enter) is higher, which makes sense since they are older when they re-enter. Also, we see that the difference is not that high probably because only 8% of the animals return to the shelter.
 We can also see that the median stays the same in both approaches, which indicates a consistent central tendency in the age distribution of animals entering the shelter. This can be significant for the Austin shelter, as they know they can usually expect younger animals. 
+
+![Tableau Dashboard](assets/tab.PNG)
