@@ -1,8 +1,8 @@
 # Austin Animal Center Data
 
-_Note: This is my first complete data analytics project, feedback would be appreciated._
+_Note: This is my sample data analytics project; feedback would be appreciated._
 
-Undoubtedly, Austin is doing its best to provide a tempporary home for the animals, with only 8% of all intakes from 2013 to 2024 returning back to the shelter. It has take into the shelter 145.147 animals (75663 dogs, 60226 cats, 812 birds, 27 livestocks such as pigs, goats etc and 8419 other type of animals). 
+Undoubtedly, Austin is doing its best to provide a temporary home for the animals, with only 8% of all intakes from 2013 to 2024 returning back to the shelter. It has taken into the shelter 145.147 animals (75663 dogs, 60226 cats, 812 birds, 27 livestock such as pigs, goats, etc, and 8419 other types of animals). 
 
 I want to investigate the following:
 1. What is the % of animals that return to the shelter?
