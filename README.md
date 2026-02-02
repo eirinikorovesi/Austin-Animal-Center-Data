@@ -1,7 +1,7 @@
 # Austin Animal Center Data
 
 _Note: This is my sample data analytics project; feedback would be appreciated._
-_The Dashboard sample is at the end._
+
 
 Undoubtedly, Austin is doing its best to provide a temporary home for the animals, with only 8% of all intakes from 2013 to 2024 returning back to the shelter. It has taken into the shelter 145.147 animals (75663 dogs, 60226 cats, 812 birds, 27 livestock such as pigs, goats, etc, and 8419 other types of animals). 
 
